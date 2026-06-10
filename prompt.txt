@@ -1,0 +1,3 @@
+A terminal-based 2D graphics editor written in C that lets you draw shapes like circles, rectangles, lines, and triangles on a text canvas.
+You can add, delete, and modify shapes through a simple menu interface.
+All shapes are rendered using classic drawing algorithms and the canvas updates automatically after every action.
